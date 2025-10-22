@@ -6,7 +6,7 @@ import MovieDetails from './Pages/MovieDetails';
 import {  Routes ,Route} from "react-router-dom";
 import Toprated from './Pages/Toprated';
 import Actordetails from './Pages/Actordetails';
-import ScrollToTop from './Components/ScrollToptop';
+import ScrollToTop from './Components/ScrollTopTop';
 function App() {
 
   return (
