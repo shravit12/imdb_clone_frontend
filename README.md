@@ -1,5 +1,7 @@
 # 🎬 IMDB Clone Frontend
 
+![Status](https://img.shields.io/badge/Status-Live-success)
+![Made By](https://img.shields.io/badge/Made%20by-Shravit-blue)
 ![React](https://img.shields.io/badge/React-Frontend-20232A?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?logo=tailwindcss)
@@ -9,9 +11,6 @@
 A fully responsive **IMDB Clone** built as part of an internship assignment, replicating core movie browsing features and modern UI inspired by the real IMDB platform.
 
 🔗 Live Demo: https://imdb-clone-frontend-sepia.vercel.app/
-```md
-![Status](https://img.shields.io/badge/Status-Live-success)
-![Made By](https://img.shields.io/badge/Made%20by-Shravit-blue)
 
 ---
 
@@ -69,16 +68,18 @@ This project was built as part of an **internship assignment** to demonstrate:
 Hosted on **Vercel** for fast performance and seamless deployment.
 
 ---
+
 ## 🙋‍♂️ Author
 
-Shravit
-Frontend / Full Stack Developer 🚀
+**Shravit**  
+Frontend / Full Stack Developer 🚀  
 
-🌐 Portfolio: https://www.devorbittech.in/
-
-🐙 GitHub: https://github.com/shravit12
+🌐 Portfolio: https://www.devorbittech.in/  
+🐙 GitHub: https://github.com/shravit12  
 
 💼 Open to internships and freelance opportunities.
+
+---
 
 ## ⭐ Support
 
