@@ -1,16 +1,85 @@
-# React + Vite
+# 🎬 IMDB Clone Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-Frontend-20232A?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+![Project](https://img.shields.io/badge/Type-Internship%20Assignment-blue)
 
-Currently, two official plugins are available:
+A fully responsive **IMDB Clone** built as part of an internship assignment, replicating core movie browsing features and modern UI inspired by the real IMDB platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: https://imdb-clone-frontend-sepia.vercel.app/
+```md
+![Status](https://img.shields.io/badge/Status-Live-success)
+![Made By](https://img.shields.io/badge/Made%20by-Shravit-blue)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎥 Movie listing interface  
+- 🔍 Search functionality  
+- 📱 Fully responsive design  
+- 🎨 Clean IMDB-inspired UI  
+- ⚡ Fast loading performance  
+- 🧩 Component-based architecture  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vercel" />
+</p>
+
+### Technologies Used
+- React.js ⚛️  
+- JavaScript (ES6+) 🟨  
+- HTML5 🌐  
+- CSS3 🎨  
+- Tailwind CSS 💨  
+- Vercel 🚀  
+
+---
+
+## 🎓 Project Background
+
+This project was built as part of an **internship assignment** to demonstrate:
+
+- Real-world frontend development skills  
+- API-based UI implementation  
+- Clean component structure  
+- Responsive layout design  
+- Production deployment workflow  
+
+---
+
+## 🧠 What I Learned
+
+- Building real-world UI clones  
+- Working with reusable components  
+- Responsive design techniques  
+- Project structuring for internships  
+- Deploying apps on Vercel  
+
+---
+
+## 🚀 Deployment
+
+Hosted on **Vercel** for fast performance and seamless deployment.
+
+---
+## 🙋‍♂️ Author
+
+Shravit
+Frontend / Full Stack Developer 🚀
+
+🌐 Portfolio: https://www.devorbittech.in/
+
+🐙 GitHub: https://github.com/shravit12
+
+💼 Open to internships and freelance opportunities.
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
